@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=while(%E5%B0%8F%E6%AD%8C)+%7B+++++love%2B%2B+++++%7D)](https://git.io/typing-svg)
 ### 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Contin-KD&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 [![My Skills](https://skillicons.dev/icons?i=c,cs,unity,github)](https://skillicons.dev)
 <!--
 **Contin-KD/Contin-KD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
