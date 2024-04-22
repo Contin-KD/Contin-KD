@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Unity
-<img align="center" src="https://skillicons.dev/icons?i={unity}&theme=light" />
+[![My Skills](https://skillicons.dev/icons?i=c,cs,unity,github)](https://skillicons.dev)
 <!--
 **Contin-KD/Contin-KD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
