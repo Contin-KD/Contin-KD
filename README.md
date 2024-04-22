@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Unity
-
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!--
 **Contin-KD/Contin-KD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
